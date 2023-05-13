@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), "opcion1", Toast.LENGTH_SHORT).show();
             return true;
         }
-
+      /*  */
         return super.onOptionsItemSelected(item);
     }
 }
